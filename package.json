@@ -1,0 +1,19 @@
+{
+  "name": "gcp-woo-no-captcha",
+  "version": "1.0.0",
+  "description": "WordPress Plugin Adds the No CAPTCHA reCAPTCHA to WooCommerce login and registration form, tested for WPMU and register on checkout support",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-potomo": "^1.0.2",
+    "gulp-wp-pot": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Geraint Palmer",
+  "license": "GPLv2"
+}

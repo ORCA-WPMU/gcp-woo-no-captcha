@@ -1,0 +1,19 @@
+{
+    "name": "geraintp/gcp-woo-no-captcha",
+    "description": "Add the No CAPTCHA reCAPTCHA to WooCommerce login and registration form tested for WPMU and register in checkout support",
+    "keywords": ["no-captcha", "woocommerce", "security", "WPMU"],
+    "homepage": "http://github.com/geraintp/gcp-woo-no-captcha",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Geraint Palmer",
+            "email": "geraintp@gmail.com",
+            "homepage": "http://geraint.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "wordpress":">=4.8"
+    }
+}
